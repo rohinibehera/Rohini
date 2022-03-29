@@ -1,7 +1,7 @@
 package log;
 
 public class RohiniGit {
-	WebDrver driver;
+
 	
 	
 
